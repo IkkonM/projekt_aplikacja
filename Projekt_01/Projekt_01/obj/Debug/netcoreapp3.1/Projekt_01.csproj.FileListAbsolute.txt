@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.exe
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.deps.json
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.runtimeconfig.json
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.runtimeconfig.dev.json
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.dll
+C:\Users\User\source\repos\Projekt_01\Projekt_01\bin\Debug\netcoreapp3.1\Projekt_01.pdb
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.AssemblyInfo.cs
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.dll
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.pdb
+C:\Users\User\source\repos\Projekt_01\Projekt_01\obj\Debug\netcoreapp3.1\Projekt_01.genruntimeconfig.cache
