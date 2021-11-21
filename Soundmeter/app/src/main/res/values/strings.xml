@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundmeterMain</string>
+    <string name="title_activity_maps_map">MapsActivityMap</string>
+</resources>
