@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/activity_mapa.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/activity_maps.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/activity_ustawienia.xml" value="0.33" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/list_group.xml" value="0.1037037037037037" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Soundmeter/app/src/main/res/layout/list_item.xml" value="0.1037037037037037" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SoundmeterMain/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SoundmeterMain/app/src/main/res/layout/activity_mapa.xml" value="0.26458333333333334" />
         <entry key="..\:/Users/User/AndroidStudioProjects/SoundmeterMain/app/src/main/res/layout/activity_ustawienia.xml" value="0.25" />

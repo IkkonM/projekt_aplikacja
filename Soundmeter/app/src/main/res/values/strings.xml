@@ -1,4 +1,34 @@
 <resources>
     <string name="app_name">SoundmeterMain</string>
     <string name="title_activity_maps_map">MapsActivityMap</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+    <string name="group1">Progi dzwięku - opis</string>
+    <string name="group2">Czas włączenia aplikacji</string>
+    <string name="group3">Motyw</string>
+    <string name="group4">Powiadomienia</string>
+
+
+    <string-array name="group1">
+        <item>Progi dźwięku</item>
+
+    </string-array>
+
+    <string-array name="group2">
+        <item>Czas</item>
+
+    </string-array>
+
+    <string-array name="group3">
+        <item>Zmień motyw</item>
+
+    </string-array>
+
+    <string-array name="group4">
+        <item>Ustawienia Powiadomień</item>
+
+    </string-array>
+
+
+
 </resources>
