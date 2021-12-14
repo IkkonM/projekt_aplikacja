@@ -5,7 +5,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Ustawienia">
+    tools:context=".Ustawienia"
+    android:background="#cffcf9">
 
 
     <ExpandableListView
@@ -15,55 +16,64 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentBottom="true"
         android:layout_marginStart="3dp"
-        android:layout_marginBottom="134dp" />
+        android:layout_marginBottom="134dp"
+        />
 
     <Button
         android:id="@+id/buttonC"
         android:layout_width="130dp"
-        android:layout_height="60dp"
+        android:layout_height="130dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
         android:layout_marginEnd="1dp"
-        android:layout_marginBottom="26dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#3399ff"
         android:text="Ustawienia"
+        android:textColor="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.938" />
+        app:layout_constraintVertical_bias="0.993" />
 
     <Button
         android:id="@+id/buttonB"
         android:layout_width="130dp"
-        android:layout_height="60dp"
+        android:layout_height="130dp"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="12dp"
-        android:layout_marginBottom="25dp"
+        android:layout_marginEnd="9dp"
+        android:layout_marginBottom="4dp"
         android:layout_toStartOf="@+id/buttonC"
+        android:backgroundTint="#ff3300"
         android:text="Menu"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toStartOf="@+id/buttonC"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toEndOf="@+id/buttonA"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.938" />
+        app:layout_constraintVertical_bias="0.993" />
 
     <Button
         android:id="@+id/buttonA"
         android:layout_width="130dp"
-        android:layout_height="60dp"
+        android:layout_height="130dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-
-        android:layout_marginEnd="284dp"
-        android:layout_marginBottom="25dp"
+        android:layout_marginEnd="278dp"
+        android:layout_marginBottom="4dp"
+        android:backgroundTint="#2dd652"
         android:text="Mapa"
+        android:textColor="@color/white"
+        android:textSize="20sp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.938" />
+        app:layout_constraintVertical_bias="0.993" />
 
 </RelativeLayout>

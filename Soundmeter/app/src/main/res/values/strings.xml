@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
     <string name="app_name">SoundmeterMain</string>
     <string name="title_activity_maps_map">MapsActivityMap</string>
     <string name="title_activity_maps">MapsActivity</string>
@@ -14,12 +14,12 @@
 
     </string-array>
 
-    <string-array name="group2">
+    <string-array name="group2" >
         <item>Czas</item>
 
     </string-array>
 
-    <string-array name="group3">
+    <string-array name="group3"        android:backgroundTint="#3399ff">
         <item>Zmień motyw</item>
 
     </string-array>
