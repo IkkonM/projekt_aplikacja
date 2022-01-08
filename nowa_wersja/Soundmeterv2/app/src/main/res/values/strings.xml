@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soundmeter</string>
+    <string name="tab_text_1">Mapa</string>
+    <string name="tab_text_2">Menu</string>
+    <string name="tab_text_3">Ustawienia</string>
+    <string name="ustawienia">Ustawienia</string>
+    <string name="menu">Menu</string>
+    <string name="miernik_dzwieku">Miernik dźwięku</string>
+</resources>
