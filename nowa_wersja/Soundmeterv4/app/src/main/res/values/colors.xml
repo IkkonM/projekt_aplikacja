@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_blue_light">#FF56A2B3</color>
+    <color name="teal_blue">#FF3C7A89</color>
+    <color name="teal_blue_dark">#FF2C5963</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="titles">#FF000000</color>
+</resources>
